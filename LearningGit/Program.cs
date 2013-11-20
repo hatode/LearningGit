@@ -10,7 +10,7 @@ namespace LearningGit
     {
         static void Main(string[] args)
         {
-            var x = 12;
+            var x = 10;
         }
     }
 }
